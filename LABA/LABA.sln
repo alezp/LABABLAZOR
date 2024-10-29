@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba.Backend", "Laba.Backend\Laba.Backend.csproj", "{BEF94D56-9E77-413C-8081-FE402F7625EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba.Fronted", "Laba.Fronted\Laba.Fronted.csproj", "{507BCF07-B90D-42E9-ACE7-C9FE40C33C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba.Shared", "Laba.Shared\Laba.Shared.csproj", "{94813775-9904-4CF2-8912-42DE89B96699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba.Test", "Laba.Test\Laba.Test.csproj", "{B5AB267D-E2A6-4143-AF67-330EF8612684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF94D56-9E77-413C-8081-FE402F7625EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF94D56-9E77-413C-8081-FE402F7625EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF94D56-9E77-413C-8081-FE402F7625EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF94D56-9E77-413C-8081-FE402F7625EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507BCF07-B90D-42E9-ACE7-C9FE40C33C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507BCF07-B90D-42E9-ACE7-C9FE40C33C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507BCF07-B90D-42E9-ACE7-C9FE40C33C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507BCF07-B90D-42E9-ACE7-C9FE40C33C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94813775-9904-4CF2-8912-42DE89B96699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94813775-9904-4CF2-8912-42DE89B96699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94813775-9904-4CF2-8912-42DE89B96699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94813775-9904-4CF2-8912-42DE89B96699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AB267D-E2A6-4143-AF67-330EF8612684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AB267D-E2A6-4143-AF67-330EF8612684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AB267D-E2A6-4143-AF67-330EF8612684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AB267D-E2A6-4143-AF67-330EF8612684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86BB44BD-FFB7-4326-8A17-FA1065A2851C}
+	EndGlobalSection
+EndGlobal
